@@ -5,12 +5,10 @@ using namespace std;
 #define ll long long
 #define pb push_back
 #define mp make_pair
-#define f first
-#define s second
 #define all(v) (v).begin(), (v).end()
 #define size(x) ((int)(x).size())
 #define fast_io() ios::sync_with_stdio(false); cin.tie(nullptr);
-
+#define vl vector<ll>
 #define vi vector<int>
 #define vvi vector<vi>
 #define pii pair<int, int>
